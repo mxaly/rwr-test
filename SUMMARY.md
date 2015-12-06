@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Guides](guidesmd.md)
 * [API](api.md)
-   * Basic
+   * [Basic](basic.md)
    * [Integrations](api/integrations.md)
 
