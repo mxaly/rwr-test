@@ -4,5 +4,5 @@
 * [Guides](guidesmd.md)
 * [API](api.md)
    * Basic
-   * [Integrations](api/integrationsmd.md)
+   * [Integrations](api/integrations.md)
 
