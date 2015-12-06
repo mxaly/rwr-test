@@ -4,5 +4,5 @@
 * [Guides](guidesmd.md)
 * [API](api.md)
    * RWR
-   * Integrations
+   * [Integrations](integrations.md)
 
