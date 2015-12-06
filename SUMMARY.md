@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Guides](guidesmd.md)
-* API
+* [API](api.md)
 
