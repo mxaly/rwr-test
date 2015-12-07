@@ -1,5 +1,5 @@
 # RWR
-* [registerComponent](./api/basic#registerComponent)
+* [registerComponent](./api/basic.html#registerComponent)
 
 ]## RWR
 
