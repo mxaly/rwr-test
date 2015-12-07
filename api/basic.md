@@ -3,7 +3,7 @@
 
 ]## RWR
 
-* #### registerComponent
+* #### [js] registerComponent
   ```js
   RWR.registerComponent(String componentName, class|function component)
   ```
