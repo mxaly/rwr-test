@@ -1,6 +1,7 @@
-# Basic
+# RWR
+* [registerComponent](#[js] registerComponent)
 
-## RWR
+]## RWR
 
 * #### [js] registerComponent
   ```js
