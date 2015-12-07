@@ -14,7 +14,7 @@
 
 * #### [js] registerComponent
   ```js
-  RWR.registerComponent(String componentName, class|function component)
+  registerComponent(String componentName, class|function component)
   ```
 
   Register component so it's globally accessible.
@@ -32,7 +32,7 @@
 * #### [js] getComponent
 
   ```js
-  RWR.getComponent(String componentName)
+  getComponent(String componentName)
   ```
 
   Shortcut for accessing registered component.
@@ -46,7 +46,7 @@
 * #### [js] createComponent
 
   ```js
-  RWR.createComponent(String componentName[, Object props])
+  createComponent(String componentName[, Object props])
   ```
 
   Wrapper over React.createElement that creates ready to render component with props.
@@ -60,7 +60,7 @@
 * #### [js] renderComponent
 
   ```js
-  RWR.renderComponent(String componentName, Object props, DOMElement container)
+  renderComponent(String componentName, Object props, DOMElement container)
   ```
 
   Wrapper over `React.render` and `React.createElement`. Renders component with given props into specified DOM element.
@@ -75,7 +75,7 @@
 * #### [js] unmountComponent
 
   ```js
-  RWR.unmountComponent(DOMElement container)
+  unmountComponent(DOMElement container)
   ```
 
   Wrapper over `React.unmountComponentAtNode`. It will unmount component from given DOM node.
