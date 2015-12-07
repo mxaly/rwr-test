@@ -6,6 +6,6 @@
    * [Basic](api/basic.md)
    * [Integrations](api/integrations.md)
        * [react-router](api/integrations/react-router.md)
-       * alt.js
+       * [alt.js](api/integrations/altjs.md)
        * redux
 
