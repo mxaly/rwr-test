@@ -1,9 +1,9 @@
 # RWR
-* [registerComponent](#[js] registerComponent)
+* [registerComponent](./api/basic#registerComponent)
 
 ]## RWR
 
-* #### [js] registerComponent
+* #### registerComponent
   ```js
   RWR.registerComponent(String componentName, class|function component)
   ```
