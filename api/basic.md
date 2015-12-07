@@ -74,7 +74,7 @@
 
   ```js
   var element = document.getElementById('my-element');
-  unmountComponent(element);
+  RWR.unmountComponent(element);
   ```
 
 * ### [ruby] react_component
