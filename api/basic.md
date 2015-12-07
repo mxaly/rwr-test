@@ -8,7 +8,9 @@
 * ruby: 
     * [ruby-react_component](./basic.html#ruby-react_component)
 
-]## RWR
+
+---
+
 
 * #### [js] registerComponent
   ```js
