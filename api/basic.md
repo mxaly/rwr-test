@@ -1,5 +1,12 @@
 # RWR
-* [registerComponent](./basic.html#registercomponent)
+* js:
+    * [registerComponent](./basic.html#js-registercomponent)
+    * [getComponent](./basic.html#js-getcomponent)
+    * [createComponent](./basic.html#js-createcomponent)
+    * [renderComponent](./basic.html#js-rendercomponent)
+    * [unmountComponent](./basic.html#js-unmountcomponent)
+* ruby: 
+    * [ruby-react_component](./basic.html#ruby-react_component)
 
 ]## RWR
 
