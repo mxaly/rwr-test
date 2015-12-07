@@ -7,5 +7,5 @@
    * [Integrations](api/integrations.md)
        * [react-router](api/integrations/react-router.md)
        * [alt.js](api/integrations/altjs.md)
-       * redux
+       * [redux](api/integrations/redux.md)
 
