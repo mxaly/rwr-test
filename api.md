@@ -1,4 +1,4 @@
 # API
 
-* [Basics](./api/basics)
+* [Basics](./api/basics.html)
 * [Integrations](./api/integrations.html)
