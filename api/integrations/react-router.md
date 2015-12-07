@@ -1,11 +1,11 @@
 # RWR.reactRouter
 
 * js:
-    *  [registerRouter](./integrations/js-reactrouter)
-    *  [getRouter](./integrations/js-getrouter)
-    *  [renderRouter](./integrations/js-renderrouter)
+    *  [registerRouter](#js-reactrouter)
+    *  [getRouter](#js-getrouter)
+    *  [renderRouter](#js-renderrouter)
 * ruby:
-    *  [react_router](./integrations/ruby-reactrouter)
+    *  [react_router](#ruby-reactrouter)
 
 ---
 
