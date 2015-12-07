@@ -6,7 +6,7 @@
     * [renderComponent](./basic.html#js-rendercomponent)
     * [unmountComponent](./basic.html#js-unmountcomponent)
 * ruby: 
-    * [ruby-react_component](./basic.html#ruby-react_component)
+    * [react_component](./basic.html#ruby-reactcomponent)
 
 
 ---
