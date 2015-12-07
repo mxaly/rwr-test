@@ -1,4 +1,4 @@
 # API
 
-* [Basics](./basics.md)
-* [Integrations](./integartions.md)
+* [Basics](./api/basics.md)
+* [Integrations](./api/integartions.md)
