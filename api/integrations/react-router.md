@@ -1,7 +1,7 @@
 # RWR.reactRouter
 
 * js:
-    *  [registerRouter](#js-reactrouter)
+    *  [registerRouter](#js-registerrouter)
     *  [getRouter](#js-getrouter)
     *  [renderRouter](#js-renderrouter)
 * ruby:
