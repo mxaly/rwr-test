@@ -22,7 +22,7 @@ React Webpack Rails brings power of React and ES6  modules into Rails views thro
 
 Why it's special? Focusing on full Rails integration our redux and alt integration allow developers to share store(s) between components. 
 
-## Instalation
+## Installation
 
 
 Add this line to your application's Gemfile:
