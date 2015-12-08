@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Guides](guidesmd.md)
-   * First Component
+   * [First Component](Guides/first_component.md)
 * [API](api.md)
    * [Basic](api/basic.md)
    * [Integrations](api/integrations.md)
