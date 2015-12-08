@@ -1,3 +1,3 @@
 # First Component
 
-Having everything [installed](./../introduction#instalation)
+Having everything [installed](./../introduction#installation)
